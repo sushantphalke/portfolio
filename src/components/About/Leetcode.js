@@ -12,6 +12,7 @@ function LeetCode() {
                 src='https://leetcard.jacoblin.cool/sushantphalke?ext=heatmap'
                style={{width:'68%'}}
                 fontSize={16}
+                alt='leetcode sushantphalke'
             />
         </Row>
     );

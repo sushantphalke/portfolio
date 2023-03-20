@@ -1,13 +1,13 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import myImg from '../../Assets/avatar.svg';
+// import myImg from '../../Assets/avatar.svg';
 import Tilt from 'react-parallax-tilt';
 import {
     AiFillGithub,
     AiOutlineTwitter,
 
 } from 'react-icons/ai';
-import { FaLinkedinIn ,FaGreaterThanEqual} from 'react-icons/fa';
+import { FaLinkedinIn} from 'react-icons/fa';
 import { SiLeetcode } from 'react-icons/si';
 
 function Home2() {

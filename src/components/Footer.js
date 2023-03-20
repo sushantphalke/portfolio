@@ -3,9 +3,9 @@ import { Container, Row, Col } from 'react-bootstrap';
 import {
     AiFillGithub,
     AiOutlineTwitter,
-    AiFillInstagram,
+ 
 } from 'react-icons/ai';
-import { FaGreaterThanEqual, FaLinkedinIn } from 'react-icons/fa';
+import {  FaLinkedinIn } from 'react-icons/fa';
 import { SiLeetcode } from 'react-icons/si';
 
 function Footer() {

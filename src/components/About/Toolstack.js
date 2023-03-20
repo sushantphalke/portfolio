@@ -1,17 +1,17 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiLinux,
+
   SiVisualstudiocode,
   SiPostman,
-  SiHeroku,
+
   SiVercel,
   SiFigma,
   SiMicrosoftoffice,
   SiNetlify,
   SiLeetcode,
 } from "react-icons/si";
-import {FaGithub, FaGreaterThanEqual}from "react-icons/fa"
+import {FaGithub}from "react-icons/fa"
 
 function Toolstack() {
   return (
