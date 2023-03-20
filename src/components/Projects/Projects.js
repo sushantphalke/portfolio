@@ -44,7 +44,7 @@ function Projects() {
                             title='Personalise College Recommandation'
                             description='Developed solution for the students that will be helpful for finding the best college for them based on their CET score and other related information (locality, type
                             of college, preferred branches & colleges etc.)'
-                            ghLink='https://github.com/soumyajit4419/Bits-0f-C0de'
+                            ghLink='https://github.com/sushantphalke/'
                             demoLink='https://blogs.soumya-jit.tech/'
                         />
                     </Col>
