@@ -59,6 +59,17 @@ function Projects() {
                             demoLink='https://rrlgcoeara.in/'
                         />
                     </Col>
+                    {/* <Col md={4} className='project-card'>
+                        <ProjectCard
+                            imgPath={Finalyearproject}
+                            isBlog={false}
+                            title='Emotion Detection'
+                            description='Developed solution for the students that will be helpful for finding the best college for them based on their CET score and other related information (locality, type
+                            of college, preferred branches & colleges etc.)'
+                            ghLink='https://github.com/sushantphalke/'
+                            demoLink='https://blogs.soumya-jit.tech/'
+                        />
+                    </Col> */}
 
                     <Col md={4} className='project-card'>
                         <ProjectCard

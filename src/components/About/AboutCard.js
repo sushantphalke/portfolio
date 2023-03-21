@@ -14,8 +14,9 @@ function AboutCard() {
                         <span className='purple'>SUSHANT PHALKE </span>
                         from{' '}
                         <span className='purple'> Pune, MaharaSHtra, India.</span>
-                        <br />I am a undergraduate pursuing <span className='purple'>B.E. Computer Engineering</span> from Governmemnt College of Engineerning and Research, Pune
+                        <br />I'm a undergraduate pursuing <span className='purple'>B.E. Computer Engineering</span> from Governmemnt College of Engineerning and Research, Pune
                         <br />
+                        Graduating in mid June 2023 😊
                         <br />
                         Apart from coding, some other activities that I love to
                         do!
