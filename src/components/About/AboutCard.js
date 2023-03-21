@@ -10,7 +10,7 @@ function AboutCard() {
                     <p style={{ textAlign: 'justify' }}>
                         Hi Everyone, 
                         <br />
-                        I am{' '}
+                        I'm {' '}
                         <span className='purple'>SUSHANT PHALKE </span>
                         from{' '}
                         <span className='purple'> Pune, MaharaSHtra, India.</span>
